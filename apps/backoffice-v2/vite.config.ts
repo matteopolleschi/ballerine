@@ -8,7 +8,7 @@ export default defineConfig(configEnv => {
 
   return {
     server: {
-      open: true,
+      open: false,
       host: true,
       port: 5137,
       // port: 443,
